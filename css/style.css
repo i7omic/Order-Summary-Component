@@ -38,7 +38,7 @@ body .container .card-container .card-img .svg-img {
   height: 220px;
 }
 body .container .card-container .card-content {
-  background-color: red;
+  background-color: #000;
   text-align: center;
   font-family: "Red Hat Display";
   height: 477px;
